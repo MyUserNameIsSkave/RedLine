@@ -151,6 +151,10 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
 		}
 	],
 	"EpicSampleNameHash": "255728979"
